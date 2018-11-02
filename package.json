@@ -1,6 +1,6 @@
 {
-  "name": "DomEvent",
-  "version": "0.0.1",
+  "name": "dom-lisener",
+  "version": "0.0.2",
   "description": "便利地注册dom事件，如document上的事件",
   "main": "index.js",
   "scripts": {

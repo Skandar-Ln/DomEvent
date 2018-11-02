@@ -1,4 +1,4 @@
-export default {
+module.exports = {
     events: {
         visibilitychange: []
     },
@@ -8,7 +8,7 @@ export default {
     onVisible(cb, isOne) {
         return this.onVisibilitychange(cb, {isOne, visibility: 'visible'});
     },
-    oneVisible(cb) {
+    oneHidden(cb) {
         return this.onHidden(cb, true);
     },
     onHidden(cb, isOne) {
