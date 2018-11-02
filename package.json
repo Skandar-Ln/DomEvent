@@ -1,0 +1,20 @@
+{
+  "name": "DomEvent",
+  "version": "0.0.1",
+  "description": "便利地注册dom事件，如document上的事件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Skandar-Ln/DomEvent.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Skandar-Ln/DomEvent/issues"
+  },
+  "homepage": "https://github.com/Skandar-Ln/DomEvent#readme"
+}
