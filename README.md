@@ -1,5 +1,5 @@
 # DomEvent
-便利地注册dom事件，如document上的事件
+便利地注册dom事件，如document上的事件 (visibilitychange)
 
 ```
 npm install dom-lisener --save
