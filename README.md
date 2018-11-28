@@ -4,3 +4,9 @@
 ```
 npm install dom-lisener --save
 ```
+
+```js
+import {oneVisible} from 'dom-lisener'
+
+oneVisible(() => console.log('once visible'));
+```
